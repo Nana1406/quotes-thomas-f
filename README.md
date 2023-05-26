@@ -12,6 +12,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: THOMAS Nancy Group F 
 
 ## Fork urls
-- `contributor-1`: [quotes-bakiko-f](url-1)
-- `contributor-2`: [quotes-laws-f](url-2)
+- `contributor-1`: [quotes-bakiko-f](https://github.com/venus111-art/quotes-bakiko-f.git)
+- `contributor-2`: [quotes-laws-f](https://github.com/Kelli-anne/quotes-bakiko-f.git)
 - `contributor-3`: [quotes-thomas-f](url-3)

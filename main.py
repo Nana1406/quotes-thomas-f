@@ -12,10 +12,12 @@ def main():
         quotes = load_quotes("quotes.txt")
         menu()
 
+
         choice = input(">> ")
         
         if choice == "random":
             print_quote(random_quote(quotes))
+
         elif choice == "display":
             count = int(input("Enter the number of quotes to display: "))
             display_quotes(quotes, count)

@@ -1,2 +1,17 @@
-# quotes-bakiko-f
-projet git 
+# quotes-VENUS-F
+projet git L1
+
+# Programming Quote Generator
+
+A python program that generates programming quotes and jokes.
+
+## Contributors
+- `initiator`: BAKIKO Vénus Group F
+- `contributor-1`: BAKIKO Vénus Group F
+- `contributor-2`: LAWS Kellianne Group F 
+- `contributor-3`: THOMAS Nancy Group F 
+
+## Fork urls
+- `contributor-1`: [quotes-bakiko-f](url-1)
+- `contributor-2`: [quotes-laws-f](url-2)
+- `contributor-3`: [quotes-thomas-f](url-3)
